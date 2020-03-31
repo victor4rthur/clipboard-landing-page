@@ -1,0 +1,322 @@
+body {
+  line-height: 2;
+  margin: 0;
+  width: 1440px;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  color: #5f6769;
+}
+
+.ig {
+  position: absolute;
+  top: 40px;
+  left: 730px;
+}
+
+.ppp {
+  position: absolute;
+  top: 40px;
+  left: 520px;
+  text-align: left;
+}
+
+.fc {
+  position: absolute;
+  top: 40px;
+  left: 330px;
+  text-align: left;
+}
+
+.patrocinios {
+  position: absolute;
+  left: 200px;
+  top: 2900px;
+}
+
+.ibm {
+  margin: 0 65px 0 65px;
+}
+
+.hp {
+  margin: 0 65px 0 65px;
+}
+
+.clip {
+  position: absolute;
+  top: 3100px;
+  width: 700px;
+  left: 365px;
+}
+
+.weve {
+  margin-top: 0;
+}
+
+.syw {
+  margin-bottom: 0;
+}
+
+.fake-table {
+  position: absolute;
+  left: 310px;
+  top: 2550px;
+}
+
+.mini1 {
+  font-size: 14px;
+  width: 300px;
+  position: absolute;
+  left: 170px;
+  top: 2590px;
+}
+
+.mini2 {
+  font-size: 14px;
+  width: 300px;
+  position: absolute;
+  left: 560px;
+  top: 2590px;
+}
+
+.mini3 {
+  width: 300px;
+  position: absolute;
+  left: 950px;
+  top: 2590px;
+  font-size: 14px;
+}
+
+.cursor {
+  margin: 0 340px 0 340px;
+}
+
+.bar-image {
+  width: 1440px;
+}
+
+.attribution {position: absolute;
+top: 3700px;
+left:590px;
+
+  font-size: 12px;
+}
+
+.logotwitter {
+  margin: 0 10px 0 10px;
+}
+
+.socials_logo {
+  position: absolute;
+  right: 150px;
+  top: 3600px;
+}
+
+.logoc {
+  position: absolute;
+  top: 3570px;
+  left: 150px;
+  width: 5%
+}
+
+.logo-top {
+  width: 15%;
+  position: absolute;
+  bottom: 300px;
+  left: 280px;
+}
+
+.top {
+  position: absolute;
+  left: 370px;
+  top: 220px;
+  width: 650px;
+}
+
+.keep {
+  width: 720px;
+  position: absolute;
+  top: 600px;
+  left: 340px;
+}
+
+.rodape {
+  position: absolute;
+  top:3530px;
+  width: 1440px;
+  height: 150px;
+  background-color: #faf4ff;
+}
+
+h1 {
+  font-size: 41px;
+  color: #222831;
+  margin-bottom: 0;
+  margin-top: 35px;
+}
+
+h2 {
+  color: #222831
+}
+
+h3 {
+  color: #222831
+}
+
+.float-pc {
+  text-align: left;
+}
+
+.float-pre-topic {
+  margin-left: 800px;
+  width: 400px;
+}
+
+.float-pre-topic2 {
+  margin-left: 800px;
+  width: 390px;
+}
+
+.float-pre-topic3 {
+  margin-left: 800px;
+  width: 390px;
+}
+
+.pc {
+  position: relative;
+  right: 730px;
+  top: 470px;
+  float: right;
+}
+
+.pre-topic {
+  margin-bottom: 0;
+  width: 390px;
+  height: 26px;
+  position: relative;
+  bottom: 30px;
+}
+
+.pre-topic2 {
+  margin-bottom: 0;
+}
+
+.pre-topic3 {
+  margin-bottom: 0;
+}
+
+.po {
+  margin-top: 5px;
+  line-height: 2;
+}
+
+.pol {
+  margin-top: 5px;
+  line-height: 2;
+}
+
+.pok {
+  margin-top: 5px;
+  line-height: 2;
+}
+
+.access-div {
+  margin: 100px 0 100px 0;
+  position: absolute;
+  left: 375px;
+  top: 1430px;
+  width: 680px;
+}
+
+.mobile {
+  position: relative;
+  top: 450px;
+}
+
+.super {
+  position: relative;
+  top: 450px;
+  line-height: 2;
+}
+
+.btn-down-mac {
+  -moz-box-shadow: 0 7px 11px;
+  -webkit-box-shadow: 0 7px 11px;
+  box-shadow: 0 7px 11px;
+  background-color: #3252d1;
+  -webkit-border-top-left-radius: 23px;
+  -moz-border-radius-topleft: 23px;
+  border-top-left-radius: 23px;
+  -webkit-border-top-right-radius: 23px;
+  -moz-border-radius-topright: 23px;
+  border-top-right-radius: 23px;
+  -webkit-border-bottom-right-radius: 23px;
+  -moz-border-radius-bottomright: 23px;
+  border-bottom-right-radius: 23px;
+  -webkit-border-bottom-left-radius: 23px;
+  -moz-border-radius-bottomleft: 23px;
+  border-bottom-left-radius: 23px;
+  text-indent: 0;
+  border-bottom: 3px solid #1926ab;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Trebuchet MS;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  height: 40px;
+  line-height: 40px;
+  width: 200px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn-down-mac:hover {
+  background-color: #6982e8;
+}
+
+.btn-down-mac:active {
+  position: relative;
+  top: 1px;
+}
+
+.btn-down-ios {
+  -moz-box-shadow: 0 7px 11px;
+  -webkit-box-shadow: 0 7px 11px;
+  box-shadow: 0 7px 11px;
+  background-color: #44c767;
+  -webkit-border-top-left-radius: 23px;
+  -moz-border-radius-topleft: 23px;
+  border-top-left-radius: 23px;
+  -webkit-border-top-right-radius: 23px;
+  -moz-border-radius-topright: 23px;
+  border-top-right-radius: 23px;
+  -webkit-border-bottom-right-radius: 23px;
+  -moz-border-radius-bottomright: 23px;
+  border-bottom-right-radius: 23px;
+  -webkit-border-bottom-left-radius: 23px;
+  -moz-border-radius-bottomleft: 23px;
+  border-bottom-left-radius: 23px;
+  text-indent: 0;
+  border-bottom: 3px solid #18ab29;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Trebuchet MS;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  height: 40px;
+  line-height: 40px;
+  width: 200px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn-down-ios:hover {
+  background-color: #5cbf2a;
+}
+
+.btn-down-ios:active {
+  position: relative;
+  top: 1px;
+}
